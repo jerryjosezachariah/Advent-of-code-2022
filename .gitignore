@@ -1,0 +1,11 @@
+## Dotfiles
+.*
+
+## Maven
+target/
+
+## IntelliJ
+*.iml
+
+## Explicit non-ignores
+!.gitignore
